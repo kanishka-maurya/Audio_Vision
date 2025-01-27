@@ -2,8 +2,9 @@ import os
 from logging import *
 from pathlib import Path
 
-
+# basic logging on terminal
 basicConfig(level = INFO, format =  "[%(asctime)s]: %(message)s")
+
 project_name = "Audio_Vision"
 
 list_of_files = [
@@ -24,6 +25,7 @@ list_of_files = [
     "templates/index.html"
 ]
 
+# creating files and folders
 for file in list_of_files:
     filepath = Path(file)
     dirname, filename = os.path.split(filepath) 

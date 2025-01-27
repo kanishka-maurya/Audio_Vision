@@ -1,0 +1,15 @@
+Metadata-Version: 2.2
+Name: audioClassification
+Version: 0.0.0
+Summary: Audio classification by leveraging image data obtained from audio data.
+Home-page: https://github.com/kanishka-maurya/AUDIO_VISION
+Author: kanishka-maurya
+Author-email: kanishkamauryaofficial@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: summary
+
+# Audio_Vision
