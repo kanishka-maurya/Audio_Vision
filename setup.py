@@ -4,6 +4,7 @@ import setuptools
 with open("README.md","r",encoding="utf-8") as f:
     long_description = f.read()
 
+# metadata of package
 REPO_NAME = "AUDIO_VISION"
 NAME = "audioClassification"
 __VERSION__ = "0.0.0"
